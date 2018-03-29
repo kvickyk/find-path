@@ -1,0 +1,4 @@
+# IDE dir
+.idea
+*.iml
+out

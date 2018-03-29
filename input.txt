@@ -1,0 +1,10 @@
+grid 8 6
+blocked 0 1
+blocked 0 2
+blocked 1 4
+blocked 4 2
+blocked 5 5
+blocked 6 3
+blocked 6 5
+blocked 7 5
+start 5 4
